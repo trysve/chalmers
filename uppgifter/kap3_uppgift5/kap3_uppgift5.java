@@ -1,7 +1,7 @@
 ﻿import javax.swing.*;
 import java.util.*;
 
-public class kap3_uppgift2 {
+public class kap3_uppgift5 {
 	public static void main(String[] args) {
 		List<Integer> integer = new LinkedList<Integer>();
 		
